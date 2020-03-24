@@ -1,0 +1,43 @@
+﻿  ConsoleApplication1.cpp
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(2): warning C4603: “WIN32”: 未定义宏或在预编译头使用后定义发生改变
+  c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(2): note: 将宏添加到预编译头中，而不是在此处定义
+  c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(6): note: 使用预编译头
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C2065: “PIP_ADAPTER_INFO”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C2146: 语法错误: 缺少“;”(在标识符“pAdapterInfo”的前面)
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C2065: “NULL”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C2065: “ULONG”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C2146: 语法错误: 缺少“;”(在标识符“ulLen”的前面)
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C2065: “ulLen”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): error C2039: “GetAdaptersInfo”: 不是“`global namespace'”的成员
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): error C2065: “ulLen”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): error C3861: “GetAdaptersInfo”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(18): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(18): error C2065: “PIP_ADAPTER_INFO”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(18): error C2039: “malloc”: 不是“`global namespace'”的成员
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(18): error C2146: 语法错误: 缺少“;”(在标识符“malloc”的前面)
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(18): error C2065: “ulLen”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(18): error C3861: “malloc”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C2039: “GetAdaptersInfo”: 不是“`global namespace'”的成员
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C2065: “ulLen”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C3861: “GetAdaptersInfo”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(21): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): error C3861: “printf”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(24): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): error C3861: “printf”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): error C3861: “printf”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): error C3861: “printf”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(27): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): error C3861: “printf”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(30): error C3861: “printf”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(31): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): error C3861: “system”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(34): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(35): error C2065: “pAdapterInfo”: 未声明的标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(35): error C3861: “free”: 找不到标识符
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(44): fatal error C1020: 意外的 #endif

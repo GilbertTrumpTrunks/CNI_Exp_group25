@@ -1,0 +1,8 @@
+﻿  UDPdump.c
+f:\cpplib\wpdpack\examples-pcap\udpdump\udpdump.c(142): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  f:\cpplib\wpdpack\examples-pcap\udpdump\udpdump.c(142): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  f:\cpplib\wpdpack\examples-pcap\udpdump\udpdump.c(142): note: 缺失的可变参数 1 为格式字符串“%s”所需
+  正在生成代码
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  UDPdump.vcxproj -> F:\CppLib\WpdPack\Examples-pcap\\Release\x86\UDPdump.exe

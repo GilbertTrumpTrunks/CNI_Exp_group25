@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(2): warning C4603: “WIN32”: 未定义宏或在预编译头使用后定义发生改变
+  c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(2): note: 将宏添加到预编译头中，而不是在此处定义
+  c:\users\donaldjohntrump\desktop\pcap\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): note: 使用预编译头
+  正在生成代码
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> C:\Users\DonaldJohnTrump\Desktop\PCAP\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
