@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+c:\users\donaldjohntrump\desktop\pcap\exp4\exp4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(189): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  c:\users\donaldjohntrump\desktop\pcap\exp4\exp4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(189): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\donaldjohntrump\desktop\pcap\exp4\exp4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(189): note: 缺失的可变参数 1 为格式字符串“%s”所需
+  正在生成代码
+  0 of 367 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> C:\Users\DonaldJohnTrump\Desktop\PCAP\exp4\exp4\ConsoleApplication1\x64\Release\ConsoleApplication1.exe

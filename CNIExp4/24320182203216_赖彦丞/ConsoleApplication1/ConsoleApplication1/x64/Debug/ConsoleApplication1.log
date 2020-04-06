@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\donaldjohntrump\desktop\pcap\exp4\exp4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+  c:\users\donaldjohntrump\desktop\pcap\exp4\exp4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: 将宏添加到预编译头中，而不是在此处定义
+  c:\users\donaldjohntrump\desktop\pcap\exp4\exp4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(42): note: 使用预编译头
+c:\users\donaldjohntrump\desktop\pcap\exp4\exp4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): fatal error C1083: 无法打开包括文件: “pcap.h”: No such file or directory
